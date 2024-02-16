@@ -18,7 +18,7 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 
 ## Education
 
-- **PhD in Ecology and Evolution**, Stony Brook University
+- **PhD Candidate in Ecology and Evolution**, Stony Brook University
 - **MA in Remote Sensing and GIS**, University of Minnesota
 
 ## Achievements
