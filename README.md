@@ -1,5 +1,3 @@
-# Hello, I'm Michael Wethington 👋
-
 ## About Me
 
 Environmental Data Scientist and PhD Candidate in Ecology and Evolution at Stony Brook University. I specialize in the intersection of ecology, geospatial analysis, and data science with a focus on Antarctic ecosystems.
