@@ -6,9 +6,9 @@ Environmental Data Scientist and PhD Candidate in Ecology and Evolution at Stony
 
 ## Technical Skills
 
-- **Languages**: Python, R, SQL, Markdown
-- **Software**: ArcGIS Suite, QGIS, Adobe Illustrator, InDesign
-- **Technologies**: Machine Learning, Remote Sensing, Spatial Data Analysis, Image Classification, Bayesian Statistics
+- **Languages**: R, Python, SQL, Markdown
+- **Software**: ArcGIS Suite, QGIS, Adobe Illustrator, Adobe InDesign, Adobe Photoshop
+- **Technologies**: Remote Sensing, Machine Learning, Spatial Data Analysis, Image Classification, Bayesian Statistics
 
 ## Current Work
 
@@ -16,7 +16,7 @@ I'm currently developing computational pipelines to process ecological and geosp
 
 ## Past Projects
 
-At NASA and the Polar Geospatial Center, I have crafted Python scripts for data orthorectification and analysis, processed vast datasets, and analyzed satellite imagery to drive insights into ecological dynamics.
+As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at Stony Brook University, I bridge the gap between ecology, geospatial science, and data analytics. My focus is on Antarctic ecosystems, where I study the delicate interplay between indigenous species and their changing environment.
 
 ## Education
 
@@ -25,14 +25,15 @@ At NASA and the Polar Geospatial Center, I have crafted Python scripts for data 
 
 ## Achievements
 
-- FAA Remote Pilot License holder with significant flight hours for RPAS operations.
-- Published author and presenter, contributing to the scientific understanding of Antarctic ecosystems.
+- Holder of an FAA Remote Pilot License, with extensive RPAS operation hours.
+- Contributor to the advancement of Antarctic ecological understanding, with multiple peer-reviewed publications and presentations.
 
 ## Teaching & Workshops
 
-Passionate about sharing knowledge, I have taught courses and workshops on geocomputation and geospatial analysis.
+- I am dedicated to the dissemination of knowledge, teaching university courses and leading workshops in geocomputation and geospatial analysis.
+- Facilitated a geocomputation workshop aimed at empowering students and researchers with advanced computational sciences.
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/michael-wethington-71661094/)
 - [Email](mailto:wething@gmail.com)
