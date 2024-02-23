@@ -35,8 +35,6 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 
 - [LinkedIn](https://www.linkedin.com/in/michael-wethington-71661094/)
 - [Email](mailto:wething@gmail.com)
-- [GitHub](https://github.com/mwethington-SUNY)
-
 Feel free to reach out for collaborations or discussions on environmental data science.
 
 ---
