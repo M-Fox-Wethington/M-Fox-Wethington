@@ -21,10 +21,26 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 - **PhD Candidate in Ecology and Evolution**, Stony Brook University
 - **MA in Remote Sensing and GIS**, University of Minnesota
 
-## Achievements
+## Licenses and Certifications
 
-- Holder of an FAA Remote Pilot License, with extensive RPAS operation hours.
-- Contributor to the advancement of Antarctic ecological understanding, with multiple peer-reviewed publications and presentations.
+
+- Wilderness Medicine Institute
+  - **CPR Certification**
+    - Issued May 2023 · Expires May 2025
+  - **Defibrillator Certification**
+    - Issued May 2023 · Expires May 2025
+  - **Epinephrine Auto-injector Certification**
+    - Issued May 2023 · Expires May 2025
+  - **Wilderness First Responder**
+    - Issued May 2015 · Expired May 2021
+
+- National Outdoor Leadership School
+  - **Leave No Trace Certified Instructor**
+    - Issued Jul 2007
+
+- Federal Aviation Administration
+  - **FAA Certified UAS Pilot**
+
 
 ## Teaching & Workshops
 
