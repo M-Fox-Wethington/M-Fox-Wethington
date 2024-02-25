@@ -21,22 +21,17 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 - **PhD Candidate in Ecology and Evolution**, Stony Brook University
 - **MA in Remote Sensing and GIS**, University of Minnesota
 
-## Licenses and Certifications
+## Active Licenses and Certifications
 
 
 - Wilderness Medicine Institute
   - **CPR Certification**
-    - Issued May 2023 · Expires May 2025
   - **Defibrillator Certification**
-    - Issued May 2023 · Expires May 2025
   - **Epinephrine Auto-injector Certification**
-    - Issued May 2023 · Expires May 2025
   - **Wilderness First Responder**
-    - Issued May 2015 · Expired May 2021
 
 - National Outdoor Leadership School
   - **Leave No Trace Certified Instructor**
-    - Issued Jul 2007
 
 - Federal Aviation Administration
   - **FAA Certified UAS Pilot**
