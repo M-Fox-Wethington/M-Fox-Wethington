@@ -56,7 +56,7 @@ My commitment extends beyond academic boundaries, focusing on democratizing acce
 
 - [LinkedIn](https://www.linkedin.com/in/michael-wethington-71661094/)
 - [Email](mailto:wething@gmail.com)
-- 
+  
 Feel free to reach out if you are interested in collaboration or need help with anything relating to my work.
 
 ---
