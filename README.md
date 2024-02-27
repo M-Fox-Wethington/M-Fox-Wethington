@@ -41,9 +41,10 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 
 - Federal Aviation Administration
   - **FAA Certified UAS Pilot**
+
+- International Maritime Organization
+  - **Standards of Training, Certification and Watchkeeping for Seafarers (STCW) Certification**
  
--International Maritime Organization
-  - **Standards of Training, Certification and Watchkeeping for Seafarers (STCW)
 
 
 ## Teaching & Workshops
