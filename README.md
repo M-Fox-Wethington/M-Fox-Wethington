@@ -56,8 +56,9 @@ My commitment extends beyond academic boundaries, focusing on democratizing acce
 
 - [LinkedIn](https://www.linkedin.com/in/michael-wethington-71661094/)
 - [Email](mailto:wething@gmail.com)
-Feel free to reach out for collaborations or discussions on environmental data science.
+- 
+Feel free to reach out if you are interested in collaboration or need help with anything relating to my work.
 
 ---
 
-Remember to replace the placeholders with your actual GitHub and LinkedIn profile URLs and email address. Once you've created the README.md file in your profile repository, this will serve as a welcoming profile overview for anyone who visits your GitHub page.
+
