@@ -49,8 +49,8 @@ As an Environmental Data Scientist and PhD Candidate in Ecology and Evolution at
 
 ## Teaching & Workshops
 
-- I am dedicated to the dissemination of knowledge, teaching university courses and leading workshops in geocomputation and geospatial analysis.
-- Facilitated a geocomputation workshop aimed at empowering students and researchers with advanced computational sciences.
+My commitment extends beyond academic boundaries, focusing on democratizing access to scientific knowledge and tools. I actively engage in developing and sharing resources that make geocomputation and geospatial analysis accessible to a broader audience. This commitment is reflected in my dedication to programming pipeline development, teaching university courses and leading workshops designed to lower the barriers to entry into the computational sciences.
+
 
 ##  Connect with Me
 
