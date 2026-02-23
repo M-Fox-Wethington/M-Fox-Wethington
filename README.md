@@ -2,21 +2,27 @@
 
 As a Quantitative Ecologist at the Biodiversity Research Institute, my work resides at the dynamic intersection of ecology, geospatial analysis, and data science, with a specialized focus on understanding Antarctic ecosystems. My academic and research foundations were built in the Lynch Lab for Quantitative Ecology at Stony Brook University, where I developed new methodologies for acquiring environmental and ecological data. I leverage these insights to unravel the complex realities of climate change in Antarctica and to communicate these discoveries effectively to drive meaningful change.
 
-In pursuit of these objectives, my research methodology is diverse and innovative, encompassing the utilization of remotely-piloted aircraft systems (drones), Earth orbiting satellites, and advanced machine learning techniques. This multi-faceted approach allows me to delve deep into the interactions between Antarctic predators and their environments, exploring how environmental factors influence animal behaviors, migration patterns, and overall health over time. A significant aspect of my work focuses on the correlation between multi-decadal sea ice declines and the consequential impacts on penguin populations across Antarctica. By integrating these various technologies and analytical methods, my aim is to provide a comprehensive understanding of ecosystem dynamics in the face of climate change, contributing valuable insights towards global ecological conservation efforts.
+My research draws on remotely-piloted aircraft systems (drones), Earth-orbiting satellites, and machine learning to study interactions between Antarctic predators and their environments — how environmental factors shape animal behaviors, migration patterns, and population health over time. A significant aspect of this work focuses on multi-decadal sea ice declines and their impacts on penguin populations across Antarctica. By integrating these tools and analytical methods, I aim to build a comprehensive understanding of ecosystem dynamics in the face of climate change.
 
 ## Technical Skills
 
 - **Languages**: R, Python, SQL, Markdown
 - **Software**: ArcGIS Suite, QGIS, Adobe Illustrator, Adobe InDesign, Adobe Photoshop
-- **Technologies**: Remote Sensing, Machine Learning, Spatial Data Analysis, Image Classification, Bayesian Statistics
+- **Methods**: Remote Sensing, Machine Learning, Spatial Data Analysis, Image Classification, Bayesian Statistics, Distance Sampling, Species Distribution Modeling, Species Movement Modeling, Multispecies Occupancy Modeling
 
 ## Current Research Initiatives
 
-In the forefront of my current research initiatives is the development of sophisticated computational pipelines designed to meticulously process and analyze ecological and geospatial data. At the heart of these efforts is the application of Machine Learning techniques, aimed at deepening our understanding of the nuanced impacts of climate change on Antarctic wildlife. This endeavor is not only about predicting future changes but also about crafting models that can offer insights into the complex interplay between environmental variables and animal behaviors.
+My current research centers on building computational pipelines to process and analyze ecological and geospatial data. I apply machine learning techniques to better understand how climate change affects Antarctic wildlife — not only to predict future changes, but to model the interplay between environmental variables and animal behaviors.
 
-A big part of my work involves constructing a multi-decadal assessment of winter sea ice conditions around the Antarctic Peninsula. This assessment leverages data from the Special Sensor Microwave Imager/Sounder (SSMI) and the Advanced Microwave Scanning Radiometer for EOS (AMSR-E) Unified datasets. Through this analysis, I aim to elucidate the long-term trends and variations in sea ice coverage and thickness, providing a critical context for understanding the ecological shifts affecting Antarctic species. The integration of these satellite-based observations with Machine Learning models enables a more nuanced exploration of how these environmental changes correlate with shifts in wildlife populations and distributions.
+A core component of this work is a multi-decadal assessment of winter sea ice conditions around the Antarctic Peninsula, using data from the SSMI and AMSR-E Unified datasets. This analysis traces long-term trends in sea ice coverage and thickness, providing critical context for understanding ecological shifts affecting Antarctic species. Combining these satellite observations with machine learning allows me to explore how environmental changes relate to shifts in wildlife populations and distributions.
 
-This research not only contributes to our scientific understanding of Antarctic ecosystems but also plays a crucial role in informing conservation strategies and policy decisions aimed at mitigating the impacts of climate change on vulnerable polar species.
+I am also developing calibration and analysis workflows for the Motus Wildlife Tracking System, a collaborative automated radio telemetry network. This work focuses on station calibration, detection validation, and species movement modeling along coastal migration corridors, with the goal of improving the reliability and ecological value of automated tracking data.
+
+Another area of active research involves collision risk and movement modeling for seabirds and shorebirds in the context of offshore wind energy development. Using the Stochastic Collision Risk Assessment for Movement (SCRAM) framework, I model flight behavior and exposure risk for species such as Piping Plover, Red Knot, and Northern Gannet to support evidence-based siting and mitigation decisions.
+
+In parallel, I am contributing to biodiversity credits research in Kajiado, Kenya, where I apply multispecies occupancy models to estimate wildlife community composition and detection across savanna landscapes. This work supports the development of credible, data-driven biodiversity credit frameworks that link conservation outcomes to measurable ecological indicators.
+
+This research contributes to our scientific understanding of polar, migratory, and tropical ecosystems and helps inform conservation strategies for vulnerable species.
 
 ## Past Projects
 
