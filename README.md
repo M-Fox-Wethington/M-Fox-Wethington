@@ -39,6 +39,7 @@
 ### Education
 
 **PhD** Ecology & Evolution — Stony Brook University *(Lynch Lab for Quantitative Ecology)*
+
 **MA** Remote Sensing & GIS — University of Minnesota
 
 ---
@@ -53,9 +54,3 @@
 - CPR / AED / Epinephrine Auto-injector
 
 </details>
-
----
-
-### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Fox-Wethington&layout=compact&theme=default&hide_border=true&bg_color=00000000)](https://github.com/M-Fox-Wethington)
