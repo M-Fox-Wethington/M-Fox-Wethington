@@ -9,6 +9,23 @@
 
 ---
 
+### About Me
+
+My research combines remote sensing, statistical modeling, and field ecology to understand how animals move through and respond to changing environments. I work across scales — from satellite-derived habitat layers spanning entire ocean basins to fine-resolution telemetry tracks of individual birds — and across ecosystems, from Antarctic sea ice to tropical forests to the offshore wind energy areas of the U.S. Atlantic. The common thread is building quantitative frameworks that connect physical and environmental drivers to species distributions, movements, and demographics, with the goal of informing conservation and management decisions.
+
+My interdisciplinary work spans multiple taxa, ecosystems, and methodological traditions:
+
+* Animal movement ecology & bio-logging (GPS, Motus, satellite telemetry)
+* Species distribution modeling & population ecology
+* Bayesian spatial analysis & multispecies occupancy modeling
+* Remote sensing for habitat characterization & environmental monitoring
+* Antarctic ecology & sea ice–penguin dynamics
+* Collision risk modeling for offshore wind energy
+* Machine learning for image classification & automated detection
+* Biodiversity monitoring & conservation planning
+
+---
+
 ### Tech Stack
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -18,6 +35,7 @@
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=flat-square&logo=arcgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=flat-square&logo=googleearth&logoColor=white)
 ![Stan](https://img.shields.io/badge/Stan-B2001E?style=flat-square&logoColor=white)
+![NIMBLE](https://img.shields.io/badge/NIMBLE-276DC3?style=flat-square&logoColor=white)
 ![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white)
 ![terra](https://img.shields.io/badge/terra-276DC3?style=flat-square&logoColor=white)
 ![sf](https://img.shields.io/badge/sf-276DC3?style=flat-square&logoColor=white)
@@ -54,3 +72,5 @@
 - CPR / AED / Epinephrine Auto-injector
 
 </details>
+
+---
