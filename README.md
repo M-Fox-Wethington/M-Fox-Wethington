@@ -13,7 +13,7 @@
 
 My research combines remote sensing, statistical modeling, and field ecology to understand how animals move through and respond to changing environments. I work across scales — from satellite-derived habitat layers spanning entire ocean basins to fine-resolution telemetry tracks of individual birds — and across ecosystems, from Antarctic sea ice to tropical forests to the offshore wind energy areas of the U.S. Atlantic. The common thread is building quantitative frameworks that connect physical and environmental drivers to species distributions, movements, and demographics, with the goal of informing conservation and management decisions.
 
-My interdisciplinary work spans multiple taxa, ecosystems, and methodological traditions:
+I work across taxa, ecosystems, and methodological traditions:
 
 * Animal movement ecology & bio-logging (GPS, Motus, satellite telemetry)
 * Species distribution modeling & population ecology
