@@ -11,7 +11,7 @@
 
 ### About Me
 
-My research combines remote sensing, statistical modeling, and field ecology to understand how animals move through and respond to changing environments. I work across scales — from satellite-derived habitat layers spanning entire ocean basins to fine-resolution telemetry tracks of individual birds — and across ecosystems, from Antarctic sea ice to tropical forests to the offshore wind energy areas of the U.S. Atlantic. The common thread is building quantitative frameworks that connect physical and environmental drivers to species distributions, movements, and demographics, with the goal of informing conservation and management decisions.
+My research combines remote sensing, statistical modeling, and field ecology to understand how animals move through and respond to changing environments. My work takes me from Antarctica to East Africa to the Northwest Atlantic. I build quantitative frameworks that link environmental drivers to species distributions, movements, and demographics — ultimately to inform conservation and management.
 
 I work across taxa, ecosystems, and methodological traditions:
 
@@ -20,6 +20,7 @@ I work across taxa, ecosystems, and methodological traditions:
 * Bayesian spatial analysis & multispecies occupancy modeling
 * Remote sensing for habitat characterization & environmental monitoring
 * Antarctic ecology & sea ice–penguin dynamics
+* Bioacoustics & automated acoustic monitoring of Antarctic taxa
 * Collision risk modeling for offshore wind energy
 * Machine learning for image classification & automated detection
 * Biodiversity monitoring & conservation planning
